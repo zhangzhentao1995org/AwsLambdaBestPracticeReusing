@@ -1,0 +1,1 @@
+{"lastDeploymentHandler":"pers.zhentao.bpr.LambdaFunctionHandler","lastInvokeHandler":null,"handlerMetadata":{"pers.zhentao.bpr.LambdaFunctionHandler":{"deployment":{"regionId":"ap-southeast-2","awsLambdaFunctionName":"Reusing","awsIamRoleName":"lambda1","awsS3BucketName":"zhentao-test1","memory":0,"timeout":0},"invoke":null}}}
